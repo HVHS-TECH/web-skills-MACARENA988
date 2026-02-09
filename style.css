@@ -1,3 +1,9 @@
 html body {
     background-color: rgb(33, 212, 79);
   }
+
+h1 {
+  color:Blue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+}
