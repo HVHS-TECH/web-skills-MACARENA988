@@ -8,8 +8,11 @@ h1 {
 }
 
 a {
-  padding: 20px;
-  border: 20px ;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border-style: 20px ;
 }
 
 li{
