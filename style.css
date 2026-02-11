@@ -10,7 +10,10 @@ h1 {
 
 a {
   padding: 20px;
-  text-decoration: none;
   border: 20px ;
-  color:grey;
+}
+
+li{
+font-family: Arial;
+font-weight: 100;
 }
