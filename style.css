@@ -8,12 +8,15 @@ h1 {
 }
 
 a {
-  padding-left: 3;
-  padding-right: 3px;
-  padding-bottom: 3px;
-  padding-top: 3px;
-  border: black, 2px, solid;
-  color:white;
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid #007BFF;
 }
 
 li{
