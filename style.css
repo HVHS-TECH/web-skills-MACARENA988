@@ -4,33 +4,35 @@ html body {
 
 h1 {
   color:white;
-  font-family: Arial;
+  font-family: arial;
 }
 
 a {
   display: inline-block;
-  padding: 12px 24px;
   background-color:grey;
-  color: white;
   text-decoration: none;
+
   border-radius: 8px;
-  font-weight: bold;
-  
   border: 2px solid grey;
+  
+
+  font-weight: bold;
+  font-family: arial;
+  color: white;
 }
 
 li{
-font-family: Arial;
+font-family: arial;
 color:white;
 font-weight: bolder;
 }
 
 h4{
-font-family: Arial;
+font-family: arial;
 color:white;
 }
 
 p{
-font-family: Arial;
+font-family: arial;
 color:white;
 }
