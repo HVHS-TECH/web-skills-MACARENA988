@@ -8,7 +8,7 @@ h1 {
 }
 
 a {
-
+display: inline-block;
 background-color:grey;
 
 border-radius: 8px;
