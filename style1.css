@@ -1,0 +1,33 @@
+html body {
+background-color: rgb(0, 0, 0);
+}
+
+h1 {
+color:white;
+font-family: arial;
+}
+
+a {
+
+}
+
+li{
+font-family: arial;
+color:white;
+font-weight: bolder;
+}
+
+h3{
+font-family: arial;
+color:white;
+}
+
+p{
+font-family: arial;
+color:white;
+font-weight:bold;
+}
+
+body{
+color:gold;
+}
