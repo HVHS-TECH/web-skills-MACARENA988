@@ -8,7 +8,16 @@ font-family: arial;
 }
 
 a {
-color:white;
+display: inline-block;
+background-color:grey;
+
+border-radius: 8px;
+border: 2px solid grey;
+padding: 6px 12px;
+
+font-weight: bold;
+font-family: arial;
+color: white;
 text-decoration: none;
 }
 
