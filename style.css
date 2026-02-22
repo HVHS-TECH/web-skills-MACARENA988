@@ -58,8 +58,7 @@ background-color: black;
 padding: 6px 12px;
 
 border-radius: 8px;
-border: 4px solid grey;
-padding: 6px 12px;    
+border: 4px solid grey; 
 }
 
 .image{
@@ -67,8 +66,7 @@ background-color: black;
 padding: 6px 12px;
 
 border-radius: 8px;
-border: 4px solid grey;
-padding: 6px 12px;    
+border: 4px solid grey;   
 }
 
 footer{
@@ -79,8 +77,6 @@ background-color: black;
   display: grid;
   grid-template-areas:
     "list image";
-  grid-template-columns: 2fr 2fr;
-  gap: 3px;
+  grid-template-columns: 3fr 1fr;
   background-color: grey;
-  padding: 5px;
 }
