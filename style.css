@@ -47,5 +47,9 @@ font-weight:bold;
 
 main{
 background-color: black;
-padding: 6px;
+padding: 6px 12px;
+
+border-radius: 8px;
+border: 2px solid grey;
+padding: 6px 12px;
 }
