@@ -14,9 +14,15 @@ color:white;
 font-family: arial;
 }
 
-.navlinks{
-display: inline-block;
+nav{
+background-color: black;
+padding: 6px 12px;
 
+border-radius: 8px;
+border: 2px solid grey;  
+}
+
+.navlinks{
 font-weight: bold;
 font-family: arial;
 color: white;
