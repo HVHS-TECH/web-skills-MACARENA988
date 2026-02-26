@@ -113,6 +113,9 @@ font-family: arial;
 
 .dropdown {
   position: relative;
+  border-radius: 8px;
+border: 2px solid grey;
+padding: 16px;
 }
 
 .dropdown-content {
